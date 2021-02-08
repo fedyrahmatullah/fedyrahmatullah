@@ -6,7 +6,7 @@
 
 - 🔭 I'm a Student at State Polytechnic of Jember
 - 🌱 I’m currently learning everything 🤣
-- 👯  I am very ambitious to learn new thingsfff
+- 👯  I am very ambitious to learn new things
 - 🥅 2021 Goals: Completed my thesis and graduated from College
 - ⚡ Fun fact: I love to read and play Basketball
 
