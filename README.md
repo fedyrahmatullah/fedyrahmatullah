@@ -1,6 +1,8 @@
 ### Hi there, I'm Fedy 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fedwhyy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffedwhyy&screen_name=fedwhyy)
+[![Repositories Badge](https://badges.pufler.dev/repos/fedyrahmatullah)](https://github.com/fedyrahmatullah?tab=repositories)
+[![Visits Badge](https://badges.pufler.dev/visits/fedyrahmatullah/fedyrahmatullah)](https://badges.pufler.dev)
 
 ## I'm a Brother, Student and Developer!!
 
