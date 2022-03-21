@@ -5,12 +5,12 @@
 [![Repositories Badge](https://badges.pufler.dev/repos/fedyrahmatullah)](https://github.com/fedyrahmatullah?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/fedyrahmatullah/fedyrahmatullah)](https://badges.pufler.dev)
 
-## I'm a Brother, Student and Developer!!
+## I'm a Brother, Analyst and Developer!!
 
-- 🔭 I'm a Student at State Polytechnic of Jember
+- 🔭 I'm a Bachelor of Applied Computer, Informatics Engineering at State Polytechnic of Jember
 - 🌱 I’m currently learning everything 🤣
 - 👯  I am very ambitious to learn new things
-- 🥅 2021 Goals: Completed my thesis and graduated from College
+- 🥅 Interested on Data Analyst, Web Development, SQA, Design, and Machine Learning!
 - ⚡ Fun fact: I love to read and play Basketball
 
 ### Connect with me:
