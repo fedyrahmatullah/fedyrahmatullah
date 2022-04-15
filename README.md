@@ -1,6 +1,6 @@
 ### Hi there, I'm Fedy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fedwhyy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffedwhyy&screen_name=fedwhyy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fedyr_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffedyr_&screen_name=fedyr_)
 <br />
 [![Repositories Badge](https://badges.pufler.dev/repos/fedyrahmatullah)](https://github.com/fedyrahmatullah?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/fedyrahmatullah/fedyrahmatullah)](https://badges.pufler.dev)
@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="fedyr | Shutterstock" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][shutterstock]
-[<img align="left" alt="fedwhyy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="fedyr_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Fedy Rahmatullah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FЯ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -58,7 +58,7 @@
 </details>
 
 [shutterstock]: http://shutterstock.com/g/fedyr
-[twitter]: https://twitter.com/fedwhyy
+[twitter]: https://twitter.com/fedyr_
 [youtube]: https://youtube.com/Fedy
 [instagram]: https://instagram.com/fedyr_
 [linkedin]: https://linkedin.com/in/fedyrahmatullah
