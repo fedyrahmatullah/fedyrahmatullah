@@ -58,7 +58,7 @@
 
 </details>
 
-[shutterstock]: http://shutterstock.com/g/fedyr
+[shutterstock]: https://linktr.ee/fedyr
 [twitter]: https://twitter.com/fedyr_
 [youtube]: https://youtube.com/Fedy
 [instagram]: https://instagram.com/fedyr_
