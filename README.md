@@ -10,7 +10,7 @@
 - 🔭 I'm a Bachelor of Applied Computer, Informatics Engineering at State Polytechnic of Jember
 - 🌱 I’m currently learning everything 🤣
 - 👯  I am very ambitious to learn new things
-- 🥅 Interested on Data Analyst, Web Development, SQA, Design, and Machine Learning!
+- 🥅 Interested on Data Analyst, Data Visualization, Web Development, SQA, Design, and Machine Learning!
 - ⚡ Fun fact: I love to read and play Basketball
 
 ### Connect with me:
