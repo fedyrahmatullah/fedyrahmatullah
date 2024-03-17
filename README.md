@@ -5,7 +5,7 @@
 [![Repositories Badge](https://badges.pufler.dev/repos/fedyrahmatullah)](https://github.com/fedyrahmatullah?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/fedyrahmatullah/fedyrahmatullah)](https://badges.pufler.dev)
 
-## I'm a Brother, Analyst and Developer!!
+## IT and Data Enthusiast
 
 - 🔭 I'm a Bachelor of Applied Computer, Informatics Engineering at State Polytechnic of Jember
 - 🌱 I’m currently learning everything 🤣
