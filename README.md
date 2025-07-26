@@ -1,6 +1,5 @@
 ### Hi there, I'm Fedy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fedyr_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffedyr_&screen_name=fedyr_)
 [![Profile Views](https://komarev.com/ghpvc/?username=fedyrahmatullah&color=blueviolet&style=for-the-badge)](https://github.com/fedyrahmatullah)
 
 
